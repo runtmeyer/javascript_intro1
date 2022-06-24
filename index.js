@@ -1,0 +1,1 @@
+var details = alert("My name is Tone Muobonuvie Christabel" + "\n" +  "I am 5 ft 6 inches tall "  + "\n" + "and I'm Nigerian")
